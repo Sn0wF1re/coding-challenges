@@ -1,0 +1,11 @@
+*.exe
+*.dll
+*.so
+*.dylib
+*.log
+*.tmp
+*.bak
+*.swp
+*.test
+*.out
+.env
